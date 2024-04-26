@@ -1,6 +1,9 @@
 # strathVueApp
 
-This template should help get you started developing with Vue 3 in Vite.
+In a nutshell? This project aims to Bring grocery services close to your dooorstep.
+Target Audience: This project will benefit everybody.<img width="596" alt="figma basics1" src="https://github.com/KBriaan/StratVueApp/assets/159112468/ce04e588-a244-45f9-ba0d-1d83443b9f56">
+
+Expected Outcome:  I hope to reduce food wastage and spoil.
 
 ## Recommended IDE Setup
 
@@ -27,3 +30,6 @@ npm run dev
 ```sh
 npm run build
 ```
+## Screenshot of StrathvueApp
+A full description
+<img width="596" alt="figma basics1" src="https://github.com/KBriaan/StratVueApp/assets/159112468/a928edfc-d503-4e38-a022-f96182d26a1c">
